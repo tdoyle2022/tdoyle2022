@@ -1,13 +1,9 @@
-<h1 align="center">Hi, I'm Terry</h1>
-<h3 align="center">And I like a good challenge.</h3>
+<h1 align="left">Hello, I'm Terry</h1>
+<h3 align="left">Learning to Program.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tdoyle2022&label=Profile%20views&color=0e75b6&style=flat" alt="tdoyle2022" /> </p>
+- I’m currently completing Code Platoon.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdoyle2022" alt="tdoyle2022" /></a> </p>
-
-- 🔭 I’m currently completing Code Platoon.
-
-- 👯 I’m looking to collaborate in order to learn my industry.
+- I’m looking to collaborate in order to learn my industry.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
