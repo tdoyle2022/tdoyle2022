@@ -1,9 +1,8 @@
 <h1 align="left">Hello, I'm Terry</h1>
-<h3 align="left">Learning to Program.</h3>
 
-- I’m currently completing Code Platoon.
+- Currently completing Code Platoon.
 
-- I’m looking to collaborate in order to learn my industry.
+- Willing to collaborate on projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
