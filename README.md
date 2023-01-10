@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm new to all of this and trying to learn.
+I'm new to programming and excited to learn.
 
 <!--
 **tdoyle2022/tdoyle2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
