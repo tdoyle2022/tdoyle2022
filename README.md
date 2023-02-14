@@ -1,6 +1,7 @@
-<h1 align="left">Hello, I'm Terry</h1>
+<h1 align="left">Welcome to my page!</h1>
 
-- Code Platoon warrior
+- Naval Officer
+- Code Platoon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
