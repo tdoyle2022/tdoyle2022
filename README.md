@@ -1,6 +1,8 @@
 <h1 align="left">Welcome to my page!</h1>
 
-- Hello, I'm a junior software engineer seeking new opportunities to learn and code. I am currently enrolled in Code Platoon, a programming bootcamp for veterans based in Chicago. I have really enjoying the Code Platoon experience. I am also an experienced hiker and scuba diver, always ready for that next adventure!
+- Hello, I'm a junior software engineer seeking new opportunities to learn and code. I am currently enrolled in Code Platoon, a programming bootcamp for veterans based in Chicago. I am really enjoying the Code Platoon experience. I am also an experienced hiker and scuba diver, always ready for that next adventure!
+
+<img src=''/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
