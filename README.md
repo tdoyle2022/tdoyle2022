@@ -2,7 +2,7 @@
 
 - Hello, I'm a junior software engineer seeking new opportunities to learn and code. I am currently enrolled in Code Platoon, a programming bootcamp for veterans based in Chicago. I am really enjoying the Code Platoon experience. I am also an experienced hiker and scuba diver, always ready for that next adventure!
 
-<img src=''/>
+<img src='5E7DC297-BF26-4EAC-B9B9-735032021E62-2331-000000C048A7FA70.jpg'/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
