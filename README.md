@@ -1,6 +1,6 @@
 <h1 align="left">Welcome to my page!</h1>
 
-- I'm a junior software engineer seeking new opportunities to collaborate and learn. I am currently enrolled in Code Platoon, a programming bootcamp for veterans. I am an experienced hiker and scuba diver, and my wife and I post travel vlogs for fun.
+- I'm a junior software engineer seeking new opportunities to collaborate and learn. I am currently enrolled in Code Platoon, a programming bootcamp for veterans. I am an experienced hiker and scuba diver, and my wife and I post travel vlogs for fun. Check us out: https://www.youtube.com/@touchdown_travel
 
 ![5E7DC297-BF26-4EAC-B9B9-735032021E62-2331-000000C048A7FA70](https://user-images.githubusercontent.com/116907919/235219726-2efe5eff-ae44-460c-81ec-c9b88e10c4ef.jpg)
 
