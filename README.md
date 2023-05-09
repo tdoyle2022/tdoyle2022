@@ -1,6 +1,6 @@
 <h1 align="left">Welcome to my page!</h1>
 
-- I'm a junior software engineer seeking new opportunities to collaborate and learn. I am currently enrolled in Code Platoon, a programming bootcamp for veterans. I am an experienced hiker and scuba diver, and my wife and I post travel vlogs for fun. Check us out at: https://www.youtube.com/@touchdown_travel
+- I'm a junior software engineer seeking new opportunities to collaborate and learn. I am currently enrolled in Code Platoon, a programming bootcamp for veterans. I am an experienced hiker and scuba diver, and my wife and I post travel vlogs for fun. See our vlogs here at: https://www.youtube.com/@touchdown_travel
 - Currently developing a travel quiz application
 - Currently developing a volunteer coordinator application designed to streamline the process of organizing volunteer events
 
